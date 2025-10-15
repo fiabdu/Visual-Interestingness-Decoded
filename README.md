@@ -5,10 +5,12 @@ Research project by Fitim Abdullahu and Helmut Grabner, to be presented at ICCV 
 
 ### Citation
 ```
-@inproceedings{abdullahu2025visualint,
-  title={Visual Interestingness Decoded: How GPT-4o Mirrors Human Interests},
-  author={Abdullahu, Fitim and Grabner, Helmut},
-  booktitle={International Conference on Computer Vision},
-  year={2025}
+@InProceedings{Abdullahu_2025_ICCV,
+    author    = {Abdullahu, Fitim and Grabner, Helmut},
+    title     = {Visual Interestingness Decoded: How GPT-4o Mirrors Human Interests},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {15350-15364}
 }
 ```
